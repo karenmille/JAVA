@@ -1,0 +1,80 @@
+1. This part of the computer fetches instructions, carries out the operations commanded by the instructions, and produces some outcome or resultant information.
+a.) secondary storage 
+b.) memory
+c.) CPU
+d.) input device
+c
+1
+
+2. This type of memory can hold data for long periods of time, even when there is no power to the computer.
+a.) primary storage
+b.) CPU storage 
+c.) RAM 
+d.) secondary storage
+d
+5
+
+3. This type of program is designed to be transmitted over the Internet and run in a Web browser.
+a.) machine language
+b.) application 
+c.) source code 
+d.) applet
+d
+5
+
+4. This is a boolean variable that signals when some condition exists in the program.
+a.) flag 
+b.) signal
+c.) sentinel
+d.) siren
+a
+5
+
+5. This section of a switch statement is branched to if none of the case expressions match the switch expression.  
+a.) else 
+b.) default
+c.) case
+d.) otherwise
+b
+5
+
+6. The do-while loop is this type of loop. 
+a.) pretest 
+b.) posttest 
+c.) prefix 
+d.) postfix
+b
+5
+
+7. This expression is executed by the for loop only once, regardless of the number of iterations. 
+a.) initialization expression
+b.) test expression
+c.) update expression 
+d.) pre-increment expression
+a
+5
+
+8. This is a variable that receives a value and passes it into a method. 
+a.) parameter 
+b.) argument 
+c.) signal 
+d.) return value
+b
+5
+
+9. Which of the following declares an array of int named beta?
+a.) Int beta;
+b.) Int[] beta;
+c.) New int beta[];
+d.) Int beta = int[];
+d
+5
+
+10 .Which of the following is the array subscripting operator in Java?
+a.) .
+b.) { }
+c.) [ ]
+d.) New
+c
+5
+
