@@ -1,5 +1,6 @@
 # JAVA
 COP1210C Lab 6
+
 25 points
 Who Wants to Be a Java Programmer? v.6
 Arrays
